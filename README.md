@@ -2,9 +2,9 @@
 
 ### react-helmet
 
+### Docs to understand the react-helmet and SEO problem and a solution:
 
-Docs to understand the react-helmet and SEO problem and a solution
-
+https://dillionmegida.com/p/how-to-configure-meta-tags-in-react-app-dynamically/
 
 
 # Getting Started with Create React App
